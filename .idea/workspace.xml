@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c30f120-cbad-4f54-be39-b3fb53537030" name="Changes" comment="2:15 Wednesday">
-      <change afterPath="$PROJECT_DIR$/dict_examples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/read_file_into_dict_of_dicts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/read_file_into_dict_of_tuples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reading_and_writing_files.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DATA/knights.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DATA/knights.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/count_with_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set_examples.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +53,28 @@
       <recent name="C:\Users\Administrator\Desktop\py3intro" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.read_file_into_dict_of_dicts">
+  <component name="RunManager" selected="Python.set_examples">
+    <configuration name="count_with_dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py3intro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/count_with_dict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="dict_examples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3intro" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -69,27 +88,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dict_examples.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="prime_sieve" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="py3intro" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prime_sieve.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="reading_and_writing_files" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="set_examples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3intro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,7 +150,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reading_and_writing_files.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/set_examples.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,19 +160,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.prime_sieve" />
-      <item itemvalue="Python.reading_and_writing_files" />
       <item itemvalue="Python.dict_examples" />
       <item itemvalue="Python.read_file_into_dict_of_tuples" />
       <item itemvalue="Python.read_file_into_dict_of_dicts" />
+      <item itemvalue="Python.count_with_dict" />
+      <item itemvalue="Python.set_examples" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.set_examples" />
+        <item itemvalue="Python.count_with_dict" />
         <item itemvalue="Python.read_file_into_dict_of_dicts" />
         <item itemvalue="Python.read_file_into_dict_of_tuples" />
         <item itemvalue="Python.dict_examples" />
-        <item itemvalue="Python.reading_and_writing_files" />
-        <item itemvalue="Python.prime_sieve" />
       </list>
     </recent_temporary>
   </component>
