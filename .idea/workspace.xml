@@ -4,9 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c30f120-cbad-4f54-be39-b3fb53537030" name="Changes" comment="9:45 Thursday">
-      <change afterPath="$PROJECT_DIR$/function_examples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/variable_scope.py" afterDir="false" />
+    <list default="true" id="7c30f120-cbad-4f54-be39-b3fb53537030" name="Changes" comment="Lunch Thursday">
+      <change afterPath="$PROJECT_DIR$/fun_with_sorting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handling_errors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/john/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/john/db/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/john/math/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/john/math/geometry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/john/net/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/use_module1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/use_module2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/use_module3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/use_module4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ANSWERS/c2f_func.py" beforeDir="false" afterPath="$PROJECT_DIR$/ANSWERS/c2f_func.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ANSWERS/c2f_loop_safe.py" beforeDir="false" afterPath="$PROJECT_DIR$/ANSWERS/c2f_loop_safe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXAMPLES/basic_sorting.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXAMPLES/basic_sorting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXAMPLES/sort_holmes.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXAMPLES/sort_holmes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,9 +65,12 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\Desktop\py3intro" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\py3intro\john\math" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.variable_scope">
-    <configuration name="count_with_dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.use_module1">
+    <configuration name="geometry" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3intro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,7 +82,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/count_with_dict.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Administrator\Desktop\py3intro\john\math\geometry.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="function_examples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="use_module1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3intro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,7 +103,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function_examples.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/use_module1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="read_file_into_dict_of_dicts" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="use_module2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3intro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,7 +124,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/read_file_into_dict_of_dicts.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/use_module2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="set_examples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="use_module3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3intro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,7 +145,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/set_examples.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/use_module3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +154,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="variable_scope" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="use_module4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3intro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,7 +166,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/variable_scope.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/use_module4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,19 +176,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.read_file_into_dict_of_dicts" />
-      <item itemvalue="Python.count_with_dict" />
-      <item itemvalue="Python.set_examples" />
-      <item itemvalue="Python.function_examples" />
-      <item itemvalue="Python.variable_scope" />
+      <item itemvalue="Python.geometry" />
+      <item itemvalue="Python.use_module1" />
+      <item itemvalue="Python.use_module2" />
+      <item itemvalue="Python.use_module3" />
+      <item itemvalue="Python.use_module4" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.variable_scope" />
-        <item itemvalue="Python.function_examples" />
-        <item itemvalue="Python.set_examples" />
-        <item itemvalue="Python.count_with_dict" />
-        <item itemvalue="Python.read_file_into_dict_of_dicts" />
+        <item itemvalue="Python.use_module1" />
+        <item itemvalue="Python.use_module4" />
+        <item itemvalue="Python.use_module3" />
+        <item itemvalue="Python.use_module2" />
+        <item itemvalue="Python.geometry" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648733992827</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Lunch Thursday">
+      <created>1648746170498</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1648746170513</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -215,7 +239,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2:15 Wednesday" />
     <MESSAGE value="9:45 Thursday" />
-    <option name="LAST_COMMIT_MESSAGE" value="9:45 Thursday" />
+    <MESSAGE value="Lunch Thursday" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lunch Thursday" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

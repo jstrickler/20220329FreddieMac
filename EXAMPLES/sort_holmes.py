@@ -12,15 +12,14 @@ books = [
     "The Case-Book of Sherlock Holmes",
 ]
 
-
 def strip_articles(title):  # <.>
     title = title.lower()
     for article in 'a ', 'an ', 'the ':
         if title.startswith(article):
-            title = title[len(article):]  # <.>
+            characters_to_remove = len(article)
+            title = title[characters_to_remove:]  # <.>
             break
     return title
-
 
 for book in sorted(books, key=strip_articles):  # <.>
     print(book)
