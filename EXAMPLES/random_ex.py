@@ -15,3 +15,9 @@ for i in range(10):
     print("choice(fruit):", random.choice(fruits))
     print("sample(fruit, 3):", random.sample(fruits, 3))
     print()
+print('-' * 60)
+
+for i in range(5):
+    random.shuffle(fruits)
+    print("fruits: {}\n".format(fruits))
+

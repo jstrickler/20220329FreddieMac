@@ -10,6 +10,7 @@ SMTP_SERVER = "smtp2go.com"  # <4>
 SMTP_PORT = 2525
 
 SMTP_USER = 'pythonclass'
+SMTP_PASSWORD = 'l0lz' # VERY VERY VERY VERY VERY VERY VERY VERY VERY VERY BAD!
 
 SENDER = 'jstrick@mindspring.com'
 RECIPIENTS = ['jstrickler@gmail.com']

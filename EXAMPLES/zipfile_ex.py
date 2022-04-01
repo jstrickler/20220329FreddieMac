@@ -7,7 +7,7 @@ import os.path
 zip_in = ZipFile("../DATA/textfiles.zip")  # <1>
 print(zip_in.namelist())  # <2>
 tyger_text = zip_in.read('tyger.txt').decode()  # <3>
-print(tyger_text[:100], '\n')
+print(tyger_text, '\n')
 zip_in.extract('parrot.txt')  # <4>
 
 # creating a zip file

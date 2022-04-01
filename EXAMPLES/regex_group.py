@@ -12,9 +12,13 @@ officia deserunt Y-45 mollit anim id est laborum"""
 
 pattern = r'([A-Z])-(\d{2,3})'  # <1>
 
+m = re.search(pattern, s)
+print(m.groups(), '\n')   # print group 1, group 2, etc
+
+
 for m in re.finditer(pattern, s):
     print(m.group(0), m.group(1), m.group(2))  # <2>
-    print(m.start(1), m.end(1), m.span())
+    print(m.start(1), m.end(1), m.span(1))
 print()
 
 matches = re.findall(pattern, s)  # <3>

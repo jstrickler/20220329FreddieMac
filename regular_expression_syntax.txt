@@ -1,0 +1,80 @@
+
+ pat     "Will you pat the cat"   "We had a spat"  "A good pattern"
+
+ p.t     "The pot is boiling"  "p.t.a"  "keep to the right"
+
+ pa?t     pat pt
+
+ p[aeiou]t    p + a-vowel + t
+ p[^aeiou]t   p + not-a-vowel + t
+
+[0123456789][0123456789][0123456789]-[0123456789][0123456789]-[0123456789][0123456789][0123456789][0123456789]
+
+[0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9][0-9][0-9]
+
+[a-fA-F0-9]
+
+[-a-z]
+
+\d\d\d-\d\d-\d\d\d\d
+
+\d [0-9]           digit
+\s [ \t\n\r\f\b]   space character
+\w [a-zA-Z0-9_]   "Word" character
+
+pat
+pa+t   pat paaaaat  paaaaaaaaaaaaaaaaaaaaaat
+pa*t   pt ...
+#  Kleene star
+p[aeiou]{2}t
+p[aeiou]{2,}t
+p[aeiou]{1,2}t
+
+p[a-z]{2}t
+
+\d{3}-\d{2}-\d{4}
+
+#  ?  0 or 1  {0,1}
+#  +  1 or more  {1,}
+#  *  0 or more {0,}
+# {n}  exactly n
+# {n,m} n through m
+# {n,}  at least n
+
+^spam       #  re.match("spam")
+^\s*ham   "   ham and cheese"
+^\s*ham$   "  ham"  "ham"  # re.fullmatch(r"\s*ham")
+
+\bthe\b     \w\W  \W\w
+
+\bclo
+
+#  ^  $  \b
+
+a*   pa*t
+.*   p.*t
+
+\**   \.  \[   \{   \^ \$ \+ \?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

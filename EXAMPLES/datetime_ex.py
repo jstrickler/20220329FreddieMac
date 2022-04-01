@@ -47,3 +47,4 @@ t3 = t2 - t1
 print("datetime(2016, 8, 24, 10, 4, 34):", t1)
 print("datetime(2018, 8, 24, 22, 8, 1):", t2)
 print("time diff (t2 - t1):", t3)
+

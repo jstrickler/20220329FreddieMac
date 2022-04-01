@@ -1,10 +1,10 @@
 import sys
 import requests
+from pprint import pprint
 
 BASE_URL = 'https://www.dictionaryapi.com/api/v3/references/collegiate/json/'  # <1>
 
 API_KEY = 'b619b55d-faa3-442b-a119-dd906adc79c8' # <2>
-
 
 def main(args):
     if len(args) < 1:
@@ -14,11 +14,17 @@ def main(args):
     response = requests.get(
         BASE_URL + args[0],
         params={'key': API_KEY},
+        timeout=30,
         # ssl, proxy, cookies, headers, etc.
     )  # <3>
 
     if response.status_code == requests.codes.OK:  # 200?
+        print('-' * 60)
+        print(response.text)
+        print('-' * 60)
         data = response.json()  # <4>
+        pprint(data)
+        print('=' * 60)
         for entry in data: # <5>
             if isinstance(entry, dict):
                 meta = entry.get("meta")

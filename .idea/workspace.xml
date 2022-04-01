@@ -5,22 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c30f120-cbad-4f54-be39-b3fb53537030" name="Changes" comment="Lunch Thursday">
-      <change afterPath="$PROJECT_DIR$/fun_with_sorting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/handling_errors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/john/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/john/db/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/john/math/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/john/math/geometry.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/john/net/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/use_module1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/use_module2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/use_module3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/use_module4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/carddeck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files_and_folders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jokerdeck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/play_cards.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regular_expression_syntax.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple_classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/walking_file_trees.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ANSWERS/c2f_func.py" beforeDir="false" afterPath="$PROJECT_DIR$/ANSWERS/c2f_func.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ANSWERS/c2f_loop_safe.py" beforeDir="false" afterPath="$PROJECT_DIR$/ANSWERS/c2f_loop_safe.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EXAMPLES/basic_sorting.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXAMPLES/basic_sorting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EXAMPLES/sort_holmes.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXAMPLES/sort_holmes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXAMPLES/datetime_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXAMPLES/datetime_ex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXAMPLES/email_attach.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXAMPLES/email_attach.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXAMPLES/external_programs.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXAMPLES/external_programs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXAMPLES/random_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXAMPLES/random_ex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXAMPLES/read_html_requests.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXAMPLES/read_html_requests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXAMPLES/regex_finding_matches.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXAMPLES/regex_finding_matches.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXAMPLES/regex_group.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXAMPLES/regex_group.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXAMPLES/regex_special.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXAMPLES/regex_special.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXAMPLES/web_content_consumer_requests.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXAMPLES/web_content_consumer_requests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXAMPLES/zipfile_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXAMPLES/zipfile_ex.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,8 +71,8 @@
       <recent name="C:\Users\Administrator\Desktop\py3intro\john\math" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.use_module1">
-    <configuration name="geometry" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.play_cards">
+    <configuration name="email_simple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3intro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,11 +80,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EXAMPLES" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Administrator\Desktop\py3intro\john\math\geometry.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXAMPLES/email_simple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="use_module1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="play_cards" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3intro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,7 +105,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/use_module1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/play_cards.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="use_module2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="random_ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3intro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,11 +122,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EXAMPLES" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/use_module2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXAMPLES/random_ex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="use_module3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="simple_classes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3intro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,7 +147,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/use_module3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/simple_classes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="use_module4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="zipfile_ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3intro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,11 +164,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EXAMPLES" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/use_module4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXAMPLES/zipfile_ex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,19 +178,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.geometry" />
-      <item itemvalue="Python.use_module1" />
-      <item itemvalue="Python.use_module2" />
-      <item itemvalue="Python.use_module3" />
-      <item itemvalue="Python.use_module4" />
+      <item itemvalue="Python.email_simple" />
+      <item itemvalue="Python.random_ex" />
+      <item itemvalue="Python.zipfile_ex" />
+      <item itemvalue="Python.simple_classes" />
+      <item itemvalue="Python.play_cards" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.use_module1" />
-        <item itemvalue="Python.use_module4" />
-        <item itemvalue="Python.use_module3" />
-        <item itemvalue="Python.use_module2" />
-        <item itemvalue="Python.geometry" />
+        <item itemvalue="Python.play_cards" />
+        <item itemvalue="Python.simple_classes" />
+        <item itemvalue="Python.zipfile_ex" />
+        <item itemvalue="Python.random_ex" />
+        <item itemvalue="Python.email_simple" />
       </list>
     </recent_temporary>
   </component>
@@ -249,6 +251,16 @@
           <url>file://$PROJECT_DIR$/writing_to_screen.py</url>
           <line>29</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EXAMPLES/email_attach.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EXAMPLES/zipfile_ex.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
